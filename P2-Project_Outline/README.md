@@ -42,9 +42,9 @@ adding, updating, or deleting any table information pictured
  -JavaScript
  
 ### What I'll Have to Learn
-      My biggest obstacle on creating this app will be figuring out the dynamics involved with getting all of the 
+   My biggest obstacle on creating this app will be figuring out the dynamics involved with getting all of the 
 information on a pie-graph visual. Doing so will require some research.
-      I will also need to get a better understanding of the work flow of a Spring Boot application. As well
+   I will also need to get a better understanding of the work flow of a Spring Boot application. As well
 as connecting all of the clients information to a database. 
       Lastly, will need information on incorporating JavaScript to add click events to the pie-graph.
 
