@@ -46,7 +46,7 @@ adding, updating, or deleting any table information pictured
 information on a pie-graph visual. Doing so will require some research.
    I will also need to get a better understanding of the work flow of a Spring Boot application. As well
 as connecting all of the clients information to a database. 
-      Lastly, will need information on incorporating JavaScript to add click events to the pie-graph.
+   Lastly, will need information on incorporating JavaScript to add click events to the pie-graph.
 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/vMVU8tfX/lift-off
