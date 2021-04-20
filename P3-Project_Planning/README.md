@@ -10,13 +10,13 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-* ![Application flow](/C:\Users\Josh\Desktop\project_images/application_flow.jpg)
+* ![Application flow](images/application_flow.jpg)
 
-* ![Introduction page](/C:\Users\Josh\Desktop\project_images/introduction_page.jpg)
+* ![Introduction page](images/introduction_page.jpg)
 
-* ![add_expense](/C:\Users\Josh\Desktop\project_images/add_expense.jpg)
+* ![add_expense](images/add_expense.jpg)
 
-* ![add_expense](/C:\Users\Josh\Desktop\project_images/register.jpg)
+* ![add_expense](images/register.jpg)
 
 ### Project Tracker
 

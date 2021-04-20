@@ -12,6 +12,6 @@ For this assignment you will need to upload your resume and provide links to you
 ### LinkedIn
 [My profile](https://www.linkedin.com/in/joshua-roberts-54646220b/)
 ### Resume
-[My Resume](file:///C:/Users/Josh/Desktop/Career/Resume.pdf)
+[My Resume](Career/Resume.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
