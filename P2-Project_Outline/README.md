@@ -7,24 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Our project is a budget planner that allows users track their expenses by category and time.Users will be able to register,login,enter their expenses and update or remove expenses. They will be able to review all of the expenses,by time,by category and in a pictuorial represenation too.
+Our project is a budget planner that allows users track their expenses by category. Users will be able to review all of their expenses by category expenses in a pie chart.
 ### Features
-User Registration - Users will be able to create a new profile for themselves, allowing them to track their own expenses, based on their own categories.
-User Login - Users will be able to login after creating a profile. 
-Add Expenses -Users will be able to add expenses in the provided respective categories(Add expense to the category that is not null)
-Crud operations - 1.Update the expense via adding category(for any increase or decrease in expenses)
-                  2.Delete the expense(for example the credit card been paid off)
-View Financial Chart-Clients will be able to see all the entered category information in a pie chart.(Make the pie chart interactive)
-View Expense History - Users will be able to see a full history of expenses based on category and time.
-Financial recommendations - Clients will be provided by the text based feedback.(Tax based feedback can also be given)
-### Technologies
-1.HTML
-2.Java
-3.MYSQL
-4.CSS
-5.BOOTSTRAP
-6.THYMELEAF
-7.Spring Boot
+1.User Registration – Users will be able to register with a username and password. Users can set up their profile with fields like name, age, email, phone number, job, and income.
+2.User Login - Users will be able to login after creating a profile.
+ 3.Add/Update Expenses
+-Users will be able to add expenses in the provided respective categories
+ -Update the expense for any increase or decrease in expenses.
+ -Delete the expense.
+ 4.View Financial Chart
+-Clients will be able to see all the entered category information in a interactive pie chart.
+-View Expense History - Users will be able to see a full history of expenses based on category and time.
+ 5.Financial recommendations – User will be given feedback on their financial status.
+ ### Technologies
+ 1.HTML
+ 2.Java
+ 3.MYSQL
+ 4.CSS
+ 5.BOOTSTRAP
+ 6.THYMELEAF
+ 7.Spring Boot
 ### What I'll Have to Learn
    My biggest obstacle on creating this app will be figuring out the dynamics involved with getting all of the 
 information on a pie-graph visual. Doing so will require some research.
