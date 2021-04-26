@@ -24,4 +24,4 @@ https://trello.com/b/FBIAnWAH/financial-budget-planning
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/DevJoshR/Financial_Budget
